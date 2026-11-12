@@ -41,7 +41,7 @@
 ### 📂 Proyectos Destacados
 - **[Plataforma E-Commerce (Mascotas.com)](https://gitlab.com/DanielsAltamirano/mascotas.com-react.git)** – Plataforma web completa construida con Laravel / React y PostgreSQL.
 - **[CRUD Contenedorizado con Docker](https://github.com/JMMM57/practica-kubernetes.git)** – Aplicación multicontenedor orquestada con Docker para gestión de inventario electrónico.
-- **[Plataforma de Adopción IMPA]()** – Sistema web conectado a Supabase para gestión y seguimiento de adopciones.
+- **[Plataforma de Adopción IMPA](https://github.com/Cesaredmyt/Adopciones-IMPA)** – Sistema web conectado a Supabase para gestión y seguimiento de adopciones.
 
 ---
 
