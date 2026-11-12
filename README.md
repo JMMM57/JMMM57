@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hola 👋, soy Juan Manuel Martínez</h1>
+  <h1>Hola , soy Juan Manuel Martínez</h1>
   <h3>Desarrollador Full-Stack | Cloud & Contenedores</h3>
   <p>Estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus Morelia, enfocado en construir aplicaciones web escalables e infraestructura moderna.</p>
 </div>
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 -  Cursando último semestre de **Ingeniería en Sistemas Computacionales** (ITM).
 - Apasionado por el desarrollo **Full-Stack**, arquitectura en la nube y automatización.
 -  En búsqueda de oportunidades para **Residencias Profesionales** en desarrollo web, software o cloud.
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
